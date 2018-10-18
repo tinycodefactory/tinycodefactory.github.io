@@ -1,0 +1,7 @@
+.contentful.json
+
+.cache/
+node_modules
+
+# generated staic content
+public/
